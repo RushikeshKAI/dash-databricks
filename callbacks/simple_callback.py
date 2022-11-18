@@ -1,7 +1,7 @@
 from dash import Dash, dcc, html, Input, Output
 
 # Simple callback function to see changes in UI, 
-# Run this file over terminal with command as 'python3 callbacks/simple_callback.py
+# Run this file over terminal with command as 'python3 callbacks/simple_callback.py'
 
 app = Dash(__name__)
 

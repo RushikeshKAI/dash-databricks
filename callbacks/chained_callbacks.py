@@ -1,3 +1,4 @@
+# Simple callback function to see changes in UI, 
 # Run this file over terminal command with 'python3 callbacks/chained_callbacks.py'
 
 from dash import Dash, dcc, html, Input, Output

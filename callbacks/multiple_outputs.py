@@ -1,4 +1,5 @@
-# # Run this file over terminal command with 'python3 callbacks/multiple_outputs.py'
+# Simple callback function to see changes in UI,
+# Run this file over terminal command with 'python3 callbacks/multiple_outputs.py'
 
 from dash import Dash, dcc, html
 from dash.dependencies import Input, Output

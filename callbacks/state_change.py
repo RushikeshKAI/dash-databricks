@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # Simple callback function to see changes in UI, 
-# Run this file over terminal with command as 'python3 callbacks/state_change.py
+# Run this file over terminal with command as 'python3 callbacks/state_change.py'
 
 from dash import Dash, dcc, html
 from dash.dependencies import Input, Output, State

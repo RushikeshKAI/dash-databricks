@@ -1,5 +1,6 @@
 # Run this file over terminal command with 'python3 callbacks/input_state.py'
 # -*- coding: utf-8 -*-
+
 from dash import Dash, dcc, html
 from dash.dependencies import Input, Output
 
